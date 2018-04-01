@@ -1,0 +1,6 @@
+rohit@rohit-Vostro-3800:~$ aws configure
+AWS Access Key ID: AKIAIDWKD4YYPM6A
+AWS Secret Access Key: jFSN66Y8/v0BGrLQJIBMyrZismkEmSkR7A
+Default region name [None]: us-west-2
+Default output format [None]: json 
+rohit@rohit-Vostro-3800:~$

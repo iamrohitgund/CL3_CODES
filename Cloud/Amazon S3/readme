@@ -1,0 +1,15 @@
+Perform following steps on terminal before executing s3.py
+
+
+1)  sudo apt-get install python-pip
+2)  sudo pip install awscli
+3)  sudo pip install --upgrade awscli
+4)  aws configure
+
+	use AWSAccessKeyId and AWSSecretKey from the doc "rootkey.csv"(provided by ma'am, we can have our own id and key if we have an aws account)
+
+	enter the region as "us-west-2"
+	output format as "json"
+
+
+sudo apt-get install python python-tk
